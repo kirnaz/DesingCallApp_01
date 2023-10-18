@@ -1,0 +1,158 @@
+#table {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+
+    font-size: 12px;
+}
+
+.main-table {
+    background-color: #EFEFEF;
+}
+
+td {
+    text-align: center;
+}
+
+/* 
+10x2% = 300px
+17x4.44% = 1190px
+sum 1490px
+*/
+
+#column01 {
+    /* width: 4.44%; */
+    width: 4.436%;
+}
+
+#column02 {
+     /* width: 4.44%; */
+     width: 3.339%;
+}
+
+#column03 {
+     /* width: 4.44%; */
+     width: 4.075%;
+}
+
+#column04 {
+     /* width: 2.22%; */
+     width: 3.523%;
+}
+
+#column05 {
+     /* width: 2.22%; */
+     width: 3.114%;
+}
+
+#column06 {
+     /* width: 4.44%; */
+     width: 5.514%;
+}
+
+#column07 {
+     /* width: 4.44%; */
+     width: 3.675%;
+}
+
+#column08 {
+     /* width: 4.44%; */
+     width: 6.244%;
+}
+
+#column09 {
+     /* width: 4.44%; */
+     width: 4.796%;
+}
+
+#column10 {
+     /* width: 2.22%; */
+     width: 4.003%;
+}
+
+#column11 {
+     /* width: 4.44%; */
+     width: 4.964%;
+}
+
+#column12 {
+     /* width: 4.44%; */
+     width: 4.487%;
+}
+
+#column13 {
+     /* width: 4.44%; */
+     width: 5.836%;
+}
+
+#column14 {
+     /* width: 4.44%; */
+     width: 5.212%;
+}
+
+#column15 {
+     /* width: 4.44%; */
+     width: 4.401%;
+}
+
+#column16 {
+     /* width: 4.44%; */
+     width: 4.478%;
+}
+
+#column17 {
+     /* width: 2.22%; */
+     width: 3.392%;
+}
+
+#column18 {
+     /* width: 2.22%; */
+     width: 2.49%;
+}
+
+#column19 {
+     /* width: 4.44%; */
+     width: 4.328%;
+}
+
+#column20 {
+     /* width: 4.44%; */
+     width: 5.237%;
+}
+
+#column21 {
+     /* width: 2.22%; */
+     width: 3.442%;
+}
+
+#column22 {
+     /* width: 2.22%; */
+     width: 3.959%;
+}
+
+#column23 {
+     /* width: 4.44%; */
+     width: 5.364%;
+}
+
+#column24 {
+     /* width: 4.44%; */
+     width: 5.833%;
+}
+
+#column25 {
+     /* width: 2.22%; */
+     width: 3.307%;
+}
+
+#column26 {
+     /* width: 2.22%; */
+     width: 3.376%;
+}
+
+#column27 {
+     /* width: 2.22%; */
+     width: 3.364%;
+}

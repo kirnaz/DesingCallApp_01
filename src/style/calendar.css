@@ -1,0 +1,42 @@
+.calendar {
+    display: flex;
+    text-align: center;
+
+    cursor: pointer;
+
+    -webkit-touch-callout: none; 
+    -webkit-user-select: none;  
+    -khtml-user-select: none;    
+    -moz-user-select: none;      
+    -ms-user-select: none;       
+    user-select: none; 
+}
+
+.calstyle {
+    text-align: center;
+    border: solid 1px;
+    border-radius: 7px;
+    padding-left: 3px;
+    padding-right: 3px;
+    color: white;
+    background-color: #139F9D;
+    font-size: 15px;
+    font-weight: 800;
+    margin-left: 3px;
+    margin-right: 3px;
+    padding: 5px;
+    margin-top: 17px;
+}
+
+.right_arrow1, .left_arrow1 {
+    height: 18px;
+    width: 18px;
+    margin-top: 23px;
+    margin-left: 2px;
+    margin-right: 2px;
+    
+}
+
+.right_arrow1 {
+    transform: rotate(180deg);
+}

@@ -1,0 +1,232 @@
+.allOf {
+    display: grid;
+    grid-template-columns: 27,  50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px;
+}
+
+.header_bar {
+    display: grid;
+    background-color: #139F9D;
+    grid-template-columns: 27, 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px;
+
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+
+    font-size: 15px;
+}
+
+#i1 {
+    grid-column-start: 1;
+    grid-column-end: 1;
+}
+
+#i2 {
+    grid-column-start: 2;
+    grid-column-end: 2;
+}
+
+#i3 {
+    grid-column-start: 3;
+    grid-column-end: 3;
+}
+
+#i4 {
+    grid-column-start: 6;
+    grid-column-end: 6;
+}
+
+#i5 {
+    grid-column-start: 7;
+    grid-column-end: 7;
+}
+
+#i6 {
+    grid-column-start: 9;
+    grid-column-end: 9;
+}
+
+#i7 {
+    grid-column-start: 10;
+    grid-column-end: 10;
+}
+
+#i8 {
+    grid-column-start: 13;
+    grid-column-end: 13;
+}
+
+#i9 {
+    grid-column-start: 14;
+    grid-column-end: 14;
+}
+
+#i10 {
+    grid-column-start: 15;
+    grid-column-end: 15;
+}
+
+#i11 {
+    grid-column-start: 23;
+    grid-column-end: 23;
+}
+
+#i12 {
+    grid-column-start: 24;
+    grid-column-end: 24;
+}
+
+#i13 {
+    grid-column-start: 25;
+    grid-column-end: 25;
+}
+
+#i15 {
+    grid-column-start: 27;
+    grid-column-end: 27;
+}
+
+
+.accordion-content {
+    display: grid;
+    grid-template-columns: 27,  50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px;
+    background-color: #FFFFFF;
+
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+
+    font-size: 15px;
+}
+
+.location {
+    grid-column-start: 1;
+    grid-column-end: 1;
+}
+
+.personName {
+    grid-column-start: 2;
+    grid-column: span 2;
+}
+
+.start {
+    grid-column-start: 4;
+    grid-column-end: 4;
+}
+
+.end {
+    grid-column-start: 5;
+    grid-column-end: 5;
+}
+
+.calls {
+    grid-column-start: 6;
+    grid-column-end: 6;
+}
+
+.totD {
+    grid-column-start: 7;
+    grid-column-end: 7;
+}
+
+.totCallTime {
+    grid-column-start: 8;
+    grid-column-end: 8;
+}
+
+.avgCall {
+    grid-column-start: 9;
+    grid-column-end: 9;
+}
+
+.reach {
+    grid-column-start: 10;
+    grid-column-end: 10;
+}
+
+.callsOut {
+    grid-column-start: 11;
+    grid-column-end: 11;
+}
+
+.replied1 {
+    grid-column-start: 12;
+    grid-column-end: 12;
+}
+
+.notReplied {
+    grid-column-start: 13;
+    grid-column-end: 13;
+}
+
+.ringTime {
+    grid-column-start: 14;
+    grid-column-end: 14;
+}
+
+.callsIn {
+    grid-column-start: 15;
+    grid-column-end: 15;
+}
+
+.replied2 {
+    grid-column-start: 16;
+    grid-column-end: 16;
+}
+
+.out {
+    grid-column-start: 17;
+    grid-column-end: 17;
+}
+
+.in {
+    grid-column-start: 18;
+    grid-column-end: 18;
+}
+
+.potRes {
+    grid-column-start: 19;
+    grid-column-end: 19;
+}
+
+.potCont {
+    grid-column-start: 20;
+    grid-column-end: 20;
+}
+
+.crea {
+    grid-column-start: 21;
+    grid-column-end: 21;
+}
+
+.transl {
+    grid-column-start: 22;
+    grid-column-end: 22;
+}
+
+
+.timePaid {
+    grid-column-start: 23;
+    grid-column-end: 23;
+}
+
+.bonusEur {
+    grid-column-start: 24;
+    grid-column-end: 24;
+}
+
+.czk {
+    grid-column-start: 25;
+    grid-column-end: 25;
+}
+
+.emr {
+    grid-column-start: 26;
+    grid-column-end: 26;
+}
+
+.ems {
+    grid-column-start: 27;
+    grid-column-end: 27;
+}
