@@ -8,7 +8,7 @@ function Main() {
       <div className="roof">
         <div className="brand_logo">
           <img src={logo} alt="Brand logo" />
-          <span className="brand_name">Rendl Intranet</span>
+          <span className="brand_name">Call center </span>
         </div>
       </div>
     </div>
